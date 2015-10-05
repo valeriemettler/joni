@@ -1,0 +1,54 @@
+/*#logo {
+  height: 100%;
+  margin: 0px -2px 5px 0;
+}*/
+.navbar-brand > img {
+  display: inline-block;
+}
+.navbar-default {
+  background-color: #f6f8f9;
+  border-color: #e7e7e7;
+}
+.userinput {
+  margin: auto;
+  width: 340px;
+  text-align: center;
+}
+#url {
+  width: 244px;
+}
+.form-control {
+  margin: 0 10px 10px 0;
+}
+.buttons {
+  margin: 6px 5px 10px 0px;
+}
+#control {
+  text-align: left;
+  margin-left: 167px;
+}
+.controls {
+  min-width: 600px;
+  margin-left: 25px;
+}
+#buttonSeturl {
+  margin: 0px 251px 0px -5px
+}
+@media screen and (min-width:420px) {
+  #control {
+    text-align: center;
+    margin-left: 0px;
+  }
+  #buttonSeturl {
+    margin: 0px 251px 0px -5px
+  }
+  #url {
+    width: 244px;
+  }
+  .controls {
+    margin-left: 0px;
+  }
+/*  #logo {
+    height: 120%;
+  }*/
+}
