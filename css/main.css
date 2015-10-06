@@ -34,6 +34,21 @@
 #buttonSeturl {
   margin: 0px 251px 0px -5px
 }
+/*#player iframe {
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+left: 0;
+}
+#player {
+position: relative;
+padding-top: 30px; //the padding helps give it size and height instead of height!!
+padding-bottom: 56.25% //this is based on the proportion of the video itself, it maintains the aspect ratio
+}
+#player2 {  //this second div allow you to adjust the width of the video on your site
+max-width: 420px;
+}*/
 @media screen and (min-width:420px) {
   #control {
     text-align: center;
